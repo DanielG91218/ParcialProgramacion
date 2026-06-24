@@ -1,6 +1,6 @@
 Profe, le envio el proyecto del parcial.
 
-Game over!!!
+Game Over!!!
 
 Saludos 
 Daniel
